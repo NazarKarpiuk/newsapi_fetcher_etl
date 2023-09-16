@@ -1,7 +1,6 @@
 # newsapi_fetcher_etl
 
 ![diagram](readme-images/diagram_drawio.png)
-[Click here to open the image in a new tab](readme-images/diagram_drawio.png)
 
 Welcome to the **newsapi_fetcher_etl** project! This guide will help you get up and running with the project quickly.
 
@@ -99,5 +98,4 @@ That's it! You're now ready to start working with the **newsapi_fetcher_etl** us
 Output data inside Snowflake warehouse table will look something like this (**SEARCH_TITLE_HERE** was set to word "war"):
 
 ![output-data](readme-images/snowflake_data_example.png)
-[Click here to open the image in a new tab](readme-images/snowflake_data_example.png)
 
